@@ -6,6 +6,17 @@
             <title>2.0</title>
             <pubDate>Tue, 19 Nov 2024 16:29:26 -0800</pubDate>
             <sparkle:version>2.0</sparkle:version>
+            <description>
+              <![CDATA[
+                <ul>
+                  <li>A New Fullscreen Mode: With a beautiful mesh gradient and blur, I hope you love it!.</li>
+                  <li>A New Karaoke Mode: Lyrics that hover over your screen, color matching with album art.</li>
+                  <li>Translation (BETA): Read translated lyrics! Using Apple's on device translation.</li>
+                  <li>Backup Lyrics: Using LRCLIB.net for backup lyrics if Spotify doesn't return anything.</li>
+                  <li>And of course, bug fixes littered everywhere!</li>
+                </ul>
+              ]]>
+            </description>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/aviwad/LyricFever/releases/download/v2.0/Lyric.Fever.2.0.dmg" length="13737484" type="application/octet-stream" sparkle:edSignature="4DUWdWu3iekNXPgRs4C7R9zLq58XuCiPWEAemL09Rg/C21JEhVBcLbERstLOOwFqPLAd+xctzT1ivacft+EwBQ=="/>
