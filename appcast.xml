@@ -17,6 +17,7 @@
                   <li>Local LRC Support</li>
                   <li>Better Apple Music Support</li>
                   <li>Better local file support</li>
+                  <li>Choose to hide song details from menubar (and only display icon)</li>
                   <li>Display local file colors and album art using MusicBrainz</li>
                   <li>Improve fullscreen animations</li>
                   <li>Minor bug fixes</li>
