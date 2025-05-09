@@ -3,31 +3,36 @@
     <channel>
         <title>Lyric Fever</title>
         <item>
-            <title>2.1</title>
-            <pubDate>Wed, 19 Mar 2025 15:47:16 -0700</pubDate>
-            <sparkle:version>2.1</sparkle:version>
+            <title>2.2</title>
+            <pubDate>Fri, 09 May 2025 08:06:05 -0700</pubDate>
+            <sparkle:version>2.2</sparkle:version>
             <description>
-              <![CDATA[
+               <![CDATA[
                 <ul>
-                  <li>Spotify login has been fixed.</li>
-                  <li>A New Karaoke Mode: New color & font settings. New options, such as hide on hover, and show multilingual lyrics on translation</li>
-                  <li>NetEase Support</li>
-                  <li>Romanize Lyrics (BETA)</li>
-                  <li>Correctly translate to user's locale.</li>
-                  <li>Local LRC Support</li>
-                  <li>Better Apple Music Support</li>
-                  <li>Better local file support</li>
-                  <li>Choose to hide song details from menubar (and only display icon)</li>
-                  <li>Display local file colors and album art using MusicBrainz</li>
-                  <li>Improve fullscreen animations</li>
-                  <li>Minor bug fixes</li>
-                  <li>Remember to translate on startup</li>
+                  <li>Improved Spotify login: no more silent failures.</li>
+                  <li>Simplified Chinese UI thanks to InTheManXG</li>
+                  <li>Translation bugs fixed</li>
+                  <li>Karaoke window color for non-Spotify lyrics should be MUCH better (to update karaoke color for a song, hit Refresh Lyrics)</li>
+                  <li>Japanese Romanization should be much better</li>
+                  <li>Rapidly skipping through songs has been fixed (stale network requests are properly cancelled)</li>
+                  <li>Fullscreen button and UI improvements</li>
+                  <li>Fullscreen settings for lyric blur, animating on startup</li>
+                  <li>Get rid of flicker on lyric change in karaoke window</li> 
+                  <li>Non-English lyric support improved on Apple Music</li>
+                  <li>Better NetEase lyric search to prevent incorrect lyrics</li>
+                  <li>New Delete Lyrics button.</li>
+                  <li>More robust local file support</li>
+                  <li>Spotify podcasts ignored</li>
+                  <li>Onboarding window cleanup</li>
+                  <li>Fullscreen has a share button</li>
+                  <li>AirPlay delay support</li>
+                  <li>Ensure freshly downloaded lyrics don't disappear on the last lyric</li>
                 </ul>
               ]]>
             </description>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aviwad/LyricFever/releases/download/v2.1/Lyric.Fever.2.1.dmg" length="13970038" type="application/octet-stream" sparkle:edSignature="hALi6IIVGEWtD2jKjJoocGpu5xqNKumRPbZOeQ5tr7q3Ra8CGv75knGQMKMrdM93B8MVEf8Z//FaXJnURTbMAw=="/>
+            <enclosure url="https://github.com/aviwad/LyricFever/releases/download/v2.2/Lyric.Fever.2.2.dmg" length="28791331" type="application/octet-stream" sparkle:edSignature="TsHA7waAq7aSiw1JmQOXqBgutwT+5CvikXSclcq8rauo4mv698xXmHzfXsE1nyE8/ztXiPAUaOTHweENWR4HBQ=="/>
         </item>
     </channel>
 </rss>
