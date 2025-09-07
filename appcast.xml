@@ -3,36 +3,30 @@
     <channel>
         <title>Lyric Fever</title>
         <item>
-            <title>2.2</title>
-            <pubDate>Fri, 09 May 2025 08:06:05 -0700</pubDate>
-            <sparkle:version>2.2</sparkle:version>
+            <title>3.0</title>
+            <pubDate>Sun, 07 Sep 2025 14:22:22 -0700</pubDate>
+            <sparkle:version>3.0</sparkle:version>
             <description>
                <![CDATA[
                 <ul>
-                  <li>Improved Spotify login: no more silent failures.</li>
-                  <li>Simplified Chinese UI thanks to InTheManXG</li>
-                  <li>Translation bugs fixed</li>
-                  <li>Karaoke window color for non-Spotify lyrics should be MUCH better (to update karaoke color for a song, hit Refresh Lyrics)</li>
-                  <li>Japanese Romanization should be much better</li>
-                  <li>Rapidly skipping through songs has been fixed (stale network requests are properly cancelled)</li>
-                  <li>Fullscreen button and UI improvements</li>
-                  <li>Fullscreen settings for lyric blur, animating on startup</li>
+                  <li>Spotify Lyrics are fixed again!</li>
+                  <li>New Lyric Search Window</li>
+                  <li>Complete code redesign</li>
+                  <li>Apple Music fix (can get Spotify lyrics, can convert romanized song metadata back to original, so NetEase lyrics work)</li>
+                  <li>App can get LRCLIB and NetEase lyrics even if Spotify fails</li>
+                  <li>Code redesign (bugs fixed)</li>
+                  <li>New Liquid Glass main window</li>
+                  <li>Can control volume from window</li>
                   <li>Get rid of flicker on lyric change in karaoke window</li> 
-                  <li>Non-English lyric support improved on Apple Music</li>
+                  <li>Better status on translation (can see if translation is loading)</li>
                   <li>Better NetEase lyric search to prevent incorrect lyrics</li>
-                  <li>New Delete Lyrics button.</li>
-                  <li>More robust local file support</li>
-                  <li>Spotify podcasts ignored</li>
-                  <li>Onboarding window cleanup</li>
-                  <li>Fullscreen has a share button</li>
-                  <li>AirPlay delay support</li>
-                  <li>Ensure freshly downloaded lyrics don't disappear on the last lyric</li>
+                <li>AirPlay audio delay support</li>
                 </ul>
               ]]>
             </description>
-            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aviwad/LyricFever/releases/download/v2.2/Lyric.Fever.2.2.dmg" length="28791331" type="application/octet-stream" sparkle:edSignature="TsHA7waAq7aSiw1JmQOXqBgutwT+5CvikXSclcq8rauo4mv698xXmHzfXsE1nyE8/ztXiPAUaOTHweENWR4HBQ=="/>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/aviwad/LyricFever/releases/download/v3/Lyric.Fever.3.0.dmg" length="27687900" type="application/octet-stream" sparkle:edSignature="x3qSMSQwfSeRF4FfG4jBCYHlcFIU75r7Q6Wi8qpYYtGCCbaay5RwTds/FsGGKzhN81M880Dud45cZ2duiG0zCA=="/>
         </item>
     </channel>
 </rss>
