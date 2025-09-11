@@ -3,38 +3,6 @@
     <channel>
         <title>Lyric Fever</title>
         <item>
-            <title>3.0</title>
-            <pubDate>Sun, 07 Sep 2025 14:22:22 -0700</pubDate>
-            <sparkle:version>3.0</sparkle:version>
-            <description>
-               <![CDATA[
-                <ul>
-                  <li>Spotify Lyrics are fixed again!</li>
-                  <li>New Lyric Search Window</li>
-                  <li>Complete code redesign</li>
-                  <li>Apple Music fix (can get Spotify lyrics, can convert romanized song metadata back to original, so NetEase lyrics work)</li>
-                  <li>App can get LRCLIB and NetEase lyrics even if Spotify fails</li>
-                  <li>Code redesign (bugs fixed)</li>
-                  <li>New Liquid Glass main window</li>
-                  <li>Can control volume from window</li>
-                  <li>Get rid of flicker on lyric change in karaoke window</li> 
-                  <li>Better status on translation (can see if translation is loading)</li>
-                  <li>Better NetEase lyric search to prevent incorrect lyrics</li>
-                <li>AirPlay audio delay support</li>
-                </ul>
-              ]]>
-            </description>
-            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aviwad/LyricFever/releases/download/v3/Lyric.Fever.3.0.dmg" length="27687900" type="application/octet-stream" sparkle:edSignature="x3qSMSQwfSeRF4FfG4jBCYHlcFIU75r7Q6Wi8qpYYtGCCbaay5RwTds/FsGGKzhN81M880Dud45cZ2duiG0zCA=="/>
-        </item>
-    </channel>
-</rss>
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>Lyric Fever</title>
-        <item>
             <title>3.1</title>
             <pubDate>Thu, 11 Sep 2025 02:06:02 -0700</pubDate>
             <sparkle:version>3.1</sparkle:version>
