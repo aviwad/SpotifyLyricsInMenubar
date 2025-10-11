@@ -3,25 +3,12 @@
     <channel>
         <title>Lyric Fever</title>
         <item>
-            <title>3.1</title>
-            <pubDate>Thu, 11 Sep 2025 02:06:02 -0700</pubDate>
-            <sparkle:version>3.1</sparkle:version>
-            <description>
-               <![CDATA[
-                <ul>
-                  <li>New Translation options:</li>
-                  <li>Specify source language per song: Use this as an override if the system could not properly detect the source language for a particualr song</li>
-                  <li>Specify target language: by default, Lyric Fever translates to your system language</li>
-                  <li>New Chinese conversion system: Convert between Simplified, Traditional (HK, Taiwan, Neutral)</li>
-                  <li>New global keyboard shortcut page in settings</li>
-                  <li>Enjoy!</li>
-                  <li>PS: I'm open to full-time swiftUI roles: https://aviwadhwa.com</li>
-                </ul>
-              ]]>
-            </description>
-            <sparkle:shortVersionString>3.1</sparkle:shortVersionString>
+            <title>3.2</title>
+            <pubDate>Fri, 10 Oct 2025 18:23:13 -0700</pubDate>
+            <sparkle:version>3.2</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aviwad/LyricFever/releases/download/v3.1/Lyric.Fever.3.1.dmg" length="28597938" type="application/octet-stream" sparkle:edSignature="At9HV9yONMNSCk9DHBofcK4XVuhWBIr2sXslCeDYMOds43jB1bVI3cyiujl6fISKHwc/PQHHb1qRg9tiJd6FAQ=="/>
+            <enclosure url="https://github.com/aviwad/LyricFever/releases/download/v3.2/Lyric.Fever.3.2.dmg" length="28678623" type="application/octet-stream" sparkle:edSignature="mMyvOUUVUOyB4m5gHw4MVM8L+mLkDVJE0jTfbsqFO/MxJBGVCpMN0bOZae0GUjH1IzMA28PEexVE4Qih/OYCDw=="/>
         </item>
     </channel>
 </rss>
