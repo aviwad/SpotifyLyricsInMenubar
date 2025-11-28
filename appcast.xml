@@ -3,12 +3,29 @@
     <channel>
         <title>Lyric Fever</title>
         <item>
-            <title>3.2</title>
-            <pubDate>Fri, 10 Oct 2025 18:23:13 -0700</pubDate>
-            <sparkle:version>3.2</sparkle:version>
-            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <title>3.3</title>
+            <pubDate>Fri, 28 Nov 2025 01:40:11 -0800</pubDate>
+            <sparkle:version>3.3</sparkle:version>
+            <description>
+<![CDATA[
+<ul>
+  <li>Fix karaoke mode's glitchy animations (finally after a whole year!) — especially visible in multilingual view</li>
+  <li>Avoid re-opening Spotify if you quit it while Lyric Fever remains open</li>
+  <li>Fix bug where Lyric Fever could unpause a song shortly after pausing it (most visible with Spotify Connect)</li>
+  <li>Improve color generation for non-Spotify lyrics (refresh lyrics to regenerate color for cached songs)</li>
+  <li>Improve menubar view appearance in light mode (significant visual improvement)</li>
+  <li>Fix a crash that could occur when applying lyrics from the search window</li>
+  <li>Change default lyric view to karaoke; default menubar to icon-only to save space</li>
+  <li>Add ability to drag album art from the menubar to share the song link</li>
+  <li>Fix album art flickering when skipping songs within the same album</li>
+  <li>Allow hitting ESC in the search window to hide selected lyrics; searching now hides stale selected lyric previews</li>
+  <li>Fix Spotify login for some users</li>
+</ul>
+]]>
+            </description>
+            <sparkle:shortVersionString>3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/aviwad/LyricFever/releases/download/v3.2/Lyric.Fever.3.2.dmg" length="28678623" type="application/octet-stream" sparkle:edSignature="mMyvOUUVUOyB4m5gHw4MVM8L+mLkDVJE0jTfbsqFO/MxJBGVCpMN0bOZae0GUjH1IzMA28PEexVE4Qih/OYCDw=="/>
+            <enclosure url="https://github.com/aviwad/LyricFever/releases/download/v3.3/Lyric.Fever.3.3.dmg" length="28665487" type="application/octet-stream" sparkle:edSignature="g49rSHOoC9mYS26dAZy+74Tihv2JohGOPZwGpQHTFiw6K4tL6jh1qXvfO6SyDLQJJ1svZp7NnkH2o7Oec5n0Aw=="/>
         </item>
     </channel>
 </rss>
